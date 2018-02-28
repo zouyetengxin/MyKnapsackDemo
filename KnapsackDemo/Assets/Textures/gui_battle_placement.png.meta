@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: ce2f32cdabc03a54295da26c3d9953fb
+timeCreated: 1478197863
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gui_battle_placement_0
+    21300002: gui_battle_placement_1
+    21300004: gui_battle_placement_2
+    21300006: gui_battle_placement_3
+    21300008: gui_battle_placement_4
+    21300010: gui_battle_placement_5
+    21300012: gui_battle_placement_6
+    21300014: gui_battle_placement_7
+    21300016: gui_battle_placement_8
+    21300018: gui_battle_placement_9
+    21300020: gui_battle_placement_10
+    21300022: gui_battle_placement_11
+    21300024: gui_battle_placement_12
+    21300026: gui_battle_placement_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gui_battle_placement_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 364
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 396
+        width: 218
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_3
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 470
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_4
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 441
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 401
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 253
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 45, y: 46, z: 45, w: 46}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 251
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 46, y: 45, z: 45, w: 45}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 266
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 38, z: 38, w: 37}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 265
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 39, y: 38, z: 39, w: 40}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 204
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_battle_placement_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 185
+        width: 225
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 107, y: 26, z: 107, w: 25}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

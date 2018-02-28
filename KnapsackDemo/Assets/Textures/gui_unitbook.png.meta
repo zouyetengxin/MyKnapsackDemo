@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 065d83c53543e5f4aa7a54090cac7ad3
+timeCreated: 1478270365
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gui_unitbook_0
+    21300002: gui_unitbook_1
+    21300004: gui_unitbook_2
+    21300006: gui_unitbook_3
+    21300008: gui_unitbook_4
+    21300010: gui_unitbook_5
+    21300012: gui_unitbook_6
+    21300014: gui_unitbook_7
+    21300016: gui_unitbook_8
+    21300018: gui_unitbook_9
+    21300020: gui_unitbook_10
+    21300022: gui_unitbook_11
+    21300024: gui_unitbook_12
+    21300026: gui_unitbook_13
+    21300028: gui_unitbook_14
+    21300030: gui_unitbook_15
+    21300032: gui_unitbook_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gui_unitbook_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 150
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 923
+        width: 148
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 983
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 957
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 828
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 828
+        width: 89
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 867
+        width: 148
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 463
+        width: 41
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 175, z: 16, w: 174}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 645
+        width: 56
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 725
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 784
+        width: 88
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 41, y: 9, z: 41, w: 8}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 760
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 5, z: 19, w: 5}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 585
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 525
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 345
+        width: 56
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_15
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 285
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_unitbook_16
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 225
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

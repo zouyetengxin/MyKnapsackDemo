@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 5a49a1330b9e2cd4aa1b861bbb85dd0d
+timeCreated: 1478197041
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gui_achieve_0
+    21300002: gui_achieve_1
+    21300004: gui_achieve_2
+    21300006: gui_achieve_3
+    21300008: gui_achieve_4
+    21300010: gui_achieve_5
+    21300012: gui_achieve_6
+    21300014: gui_achieve_7
+    21300016: gui_achieve_8
+    21300018: gui_achieve_9
+    21300020: gui_achieve_10
+    21300022: gui_achieve_11
+    21300024: gui_achieve_12
+    21300026: gui_achieve_13
+    21300028: gui_achieve_14
+    21300030: gui_achieve_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gui_achieve_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 698
+        width: 114
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 54, y: 160, z: 54, w: 157}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 608
+        width: 134
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 59, y: 206, z: 60, w: 205}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 506
+        width: 134
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 60, y: 248, z: 58, w: 248}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 935
+        width: 161
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 843
+        width: 161
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_5
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 752
+        width: 164
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 613
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 480
+        width: 410
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 233
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 167
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 341
+        width: 331
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 265
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 265
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 262
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 262
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_achieve_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 263
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

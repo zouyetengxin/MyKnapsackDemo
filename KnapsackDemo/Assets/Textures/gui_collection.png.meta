@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: e16f9e231c2d50741a3c07b144e62e58
+timeCreated: 1519722296
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gui_collection_0
+    21300002: gui_collection_1
+    21300004: gui_collection_2
+    21300006: gui_collection_3
+    21300008: gui_collection_4
+    21300010: gui_collection_5
+    21300012: gui_collection_6
+    21300014: gui_collection_7
+    21300016: gui_collection_8
+    21300018: gui_collection_9
+    21300020: gui_collection_10
+    21300022: gui_collection_11
+    21300024: gui_collection_12
+    21300026: gui_collection_13
+    21300028: gui_collection_14
+    21300030: gui_collection_15
+    21300032: gui_collection_16
+    21300034: gui_collection_17
+    21300036: gui_collection_18
+    21300038: gui_collection_19
+    21300040: gui_collection_20
+    21300042: gui_collection_21
+    21300044: gui_collection_22
+    21300046: gui_collection_23
+    21300048: gui_collection_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gui_collection_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 300
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 362
+        width: 216
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 300
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 15, z: 15, w: 15}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 164
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 787
+        width: 120
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 733
+        width: 179
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 659
+        width: 174
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 656
+        width: 127
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 174
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 604
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 604
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 603
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 560
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 562
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 544
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 558
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 480
+        width: 151
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 509
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 504
+        width: 80
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 225
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 409
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 276
+        width: 223
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_22
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 314
+        width: 59
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 307
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: gui_collection_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 416
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

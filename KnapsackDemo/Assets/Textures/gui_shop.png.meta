@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 90185453ec10e7f4483e2ab5c2eb4033
+timeCreated: 1477886525
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gui_shop_0
+    21300002: gui_shop_1
+    21300004: gui_shop_2
+    21300006: gui_shop_3
+    21300008: gui_shop_4
+    21300010: gui_shop_5
+    21300012: gui_shop_6
+    21300014: gui_shop_7
+    21300016: gui_shop_8
+    21300018: gui_shop_9
+    21300020: gui_shop_10
+    21300022: gui_shop_11
+    21300024: gui_shop_12
+    21300026: gui_shop_13
+    21300028: gui_shop_14
+    21300030: gui_shop_15
+    21300032: gui_shop_16
+    21300034: gui_shop_17
+    21300036: gui_shop_18
+    21300038: gui_shop_19
+    21300040: gui_shop_20
+    21300042: gui_shop_21
+    21300044: gui_shop_22
+    21300046: gui_shop_23
+    21300048: gui_shop_24
+    21300050: gui_shop_25
+    21300052: gui_shop_26
+    21300054: gui_shop_27
+    21300056: gui_shop_28
+    21300058: gui_shop_29
+    21300060: gui_shop_30
+    21300062: gui_shop_31
+    21300064: gui_shop_32
+    21300066: gui_shop_33
+    21300068: gui_shop_34
+    21300070: gui_shop_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gui_shop_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 248
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 127
+        width: 146
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 63, y: 181, z: 62, w: 179}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 272
+        width: 230
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 106, y: 111, z: 106, w: 108}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2
+        width: 266
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 328
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 328
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 331
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 331
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 333
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 278
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 278
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 281
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 278
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 148
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 247
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_18
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 250
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_19
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 188
+        width: 95
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 225
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1
+        width: 123
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 61
+        width: 246
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 195
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 23
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_25
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 13
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_26
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 13
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 13
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 13
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_29
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 13
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_30
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_31
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 13
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_33
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 110
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 21, z: 95, w: 21}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: gui_shop_35
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 200
+        width: 230
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 106, y: 30, z: 106, w: 29}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
